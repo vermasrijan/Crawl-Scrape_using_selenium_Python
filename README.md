@@ -9,3 +9,6 @@
 ## Dependencies
 1. [Selenium](https://pypi.org/project/selenium/)<br/>
 2. [Chrome driver](https://chromedriver.storage.googleapis.com/index.html?path=2.45/) for various operating systems.<br/>
+
+## Acknowledgements
+A big Thank you to the whole team of [Messy Fractals](https://messyfractals.wordpress.com/), especially [Dhanya P](https://www.linkedin.com/in/dhanyap/?originalSubdomain=in) and [Arvind Sivdas](https://www.linkedin.com/in/arvindsivdas/?originalSubdomain=in) for letting me work under them and helping me get started with NLP !
